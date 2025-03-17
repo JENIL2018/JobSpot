@@ -1,4 +1,4 @@
-# Job-App Ingenious Hackathon
+# Job-spot Ingenious Hackathon
 Team Members :- 
 1) Jeet Nakrani
 2) Jenil Gopani
